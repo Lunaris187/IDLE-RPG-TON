@@ -1,4 +1,4 @@
-#!/bin/bash
+             #!/bin/bash
 # Skript für Idle-RPG-Prototypen (1-Tag-Entwicklung)
 
 # Schritt 1: Verzeichnisstruktur erstellen
