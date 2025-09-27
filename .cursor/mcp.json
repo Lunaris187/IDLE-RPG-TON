@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "prode-codebase-understanding": {
+      "type": "http",
+      "url": "https://api.prode.ai/code-parsing/v1/mcp/",
+      "headers": {
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJjNTllYTc2LWExZDUtNGE0Ny04OGI5LWFhNzY3N2Y2MjY1MCIsInRlYW1faWQiOiIyYzU5ZWE3Ni1hMWQ1LTRhNDctODhiOS1hYTc2NzdmNjI2NTAiLCJleHAiOjE3OTA0OTIxOTZ9.2DjLCqvcJuf7Tk6BzYmVzULasGqjaizcP1YPd7-5F04"
+      }
+    }
+  }
+}
